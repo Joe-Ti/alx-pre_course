@@ -1,2 +1,1 @@
-my first readme
-I am improving daily
+This code is testing, main code will be uploaded shortly
